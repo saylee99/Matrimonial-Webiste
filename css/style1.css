@@ -1,0 +1,69 @@
+body{
+    background: url('../imgs/balloons.jpg');
+    background-position: left;
+    background-repeat: no-repeat;
+}
+form{
+    width: 500px;
+    height: 500px;
+    text-align: center;
+    margin: 0px 0px 0px 430px;
+    padding: 35px 24px 24px 27px;
+    
+}
+h2{
+    font-size: 50px;
+    color: purple;
+    text-decoration: rgb(131, 84, 131)  underline;
+}
+h5{
+    padding: 4px;
+    margin: 4px;
+    font-size: 20px;
+    color: purple;
+}
+h5:hover{
+    cursor: pointer;
+    text-decoration: rgb(59, 16, 59)  underline;
+    text-transform: inherit;
+    text-decoration-style: solid;
+}
+h4{
+    font-size: 20px;
+    color: purple;
+}
+
+input{
+    padding: 10px;
+    margin: 12px;
+    width: 300px;
+}
+.btns{
+    
+    height: 30px;
+    width: 80px;
+   color: white;
+    font-size: 20px;
+    background-color: rgb(248, 41, 41);
+    border: none;
+    border-radius: 5px;
+}
+.btns:hover{
+    cursor: pointer;
+}
+.btn4{
+    height: 33px;
+    width: 153px;
+    font-size: 20px;
+    background-color: red;
+    border: none;
+    border-radius: 5px;
+    text-decoration: none;
+}
+.btn4:hover{
+    cursor: pointer;
+}
+#link{
+    text-decoration: none;
+    font-size: 30px;
+}
